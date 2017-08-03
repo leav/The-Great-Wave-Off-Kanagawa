@@ -2,9 +2,7 @@
 
 _The Great Wave off Kanagawa_ is a two-player local wave making and fighting game made during [2017 Global Game Jam](https://globalgamejam.org/2017/games/great-wave-kanagawa) under the theme "Wave". In this game, two players try to push each other off the screen by creating great waves as much as possible.
 
-* Design: [Lea Liu](https://www.lealiu.com/), [leav](https://github.com/leav/)
-* Program: [Feiou Su](http://www.feiousu.net/), [leav](https://github.com/leav/)
-* Art: [Emma Wang](https://www.emmawang.me/), [Lea Liu](https://www.lealiu.com/)
+Developers:  [Emma Wang](https://www.emmawang.me/), [Feiou Su](http://www.feiousu.net/), [Lea Liu](https://www.lealiu.com/), [leav](https://github.com/leav/)
 
 Credits
 * Original Art: [The Great Wave Off Kanagawa 神奈川沖浪裏](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa)

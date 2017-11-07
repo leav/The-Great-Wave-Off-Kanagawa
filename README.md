@@ -1,4 +1,4 @@
-[![Play Footage](https://img.youtube.com/vi/m29zokhoOXo/0.jpg)](https://www.youtube.com/watch?v=m29zokhoOXo)
+[![Play Footage](Static/banner.png)](https://www.youtube.com/watch?v=m29zokhoOXo)
 
 _The Great Wave off Kanagawa_ is a two-player local wave making and fighting game made during [2017 Global Game Jam](https://globalgamejam.org/2017/games/great-wave-kanagawa) under the theme "Wave". In this game, two players try to push each other off the screen by creating great waves as much as possible.
 
